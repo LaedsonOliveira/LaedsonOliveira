@@ -15,7 +15,7 @@
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaedsonOliveira&layout=donut&theme=radical)
 
- <p><strong>About me</strong></p>
+ <p><strong>Sobre mim</strong></p>
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá, meu nome é Laedson de Oliveira, estudante de ADS <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Meu objetivo é me tornar um Dev Back End.<br />
