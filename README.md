@@ -1,3 +1,4 @@
+
 <h1 align="center">Hello, I'm Laedson de Oliveira 👋</h1>
 
 <p align="center">
@@ -7,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/LaedsonOliveira/LaedsonOliveira/issues/1" alt="Perfil" width="50%" />
+  <img src="https://github.com/user-attachments/assets/baad7f0e-c1e8-48c2-8967-9b970b521554" alt="Perfil" width="30%" />
 </p>
 
 <p align="center">
