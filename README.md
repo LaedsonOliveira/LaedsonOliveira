@@ -8,10 +8,6 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/baad7f0e-c1e8-48c2-8967-9b970b521554" alt="Perfil" width="30%" />
-</p>
-
-<p align="center">
   I am a Technology student, passionate about logic, programming and problem solving. <br> 
   Here you’ll find my projects  with AI, Web, Cloud, and more.
 </p>
